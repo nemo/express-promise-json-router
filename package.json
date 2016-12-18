@@ -1,0 +1,31 @@
+{
+  "name": "express-promise-json-router",
+  "version": "1.0.0",
+  "description": "Express Promise Router for JSON responses",
+  "main": "lib/index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "express": "^4.14.0",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemo/express-promise-json-router.git"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "promise",
+    "json"
+  ],
+  "author": "Nima Gardideh <nima@halfmoon.ws>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nemo/express-promise-json-router/issues"
+  },
+  "homepage": "https://github.com/nemo/express-promise-json-router#readme"
+}
