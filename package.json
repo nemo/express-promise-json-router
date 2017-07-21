@@ -1,6 +1,6 @@
 {
   "name": "express-promise-json-router",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Express Promise Router for JSON responses",
   "main": "lib/index.js",
   "dependencies": {
